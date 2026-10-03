@@ -30,7 +30,7 @@ USUARIO&show_icons=true&theme=tokyonight)
 badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-alexandre-818026357/?isSelfProfile=true)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-
-badge&logo=gmail&logoColor=white)](muel45865@gmail.com)
+badge&logo=gmail&logoColor=white)](Mailto:muel45865@gmail.com)
 
 ---
 “Sempre aprendendo e evoluindo como desenvolvedor.”
