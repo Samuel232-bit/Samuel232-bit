@@ -5,4 +5,5 @@
 - 📬 Contato: muel45865@gmail.com
 
 - onde me encontrar:
-  (https://www.linkedin.com/in/samuel-alexandre-818026357/?isSelfProfile=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
+badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
